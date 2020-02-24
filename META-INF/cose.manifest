@@ -1,0 +1,1467 @@
+Manifest-Version: 1.0
+
+Name: bootstrap.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mvnolC3NZxTHOqUI/drdml35y6g=
+SHA256-Digest: RJR4UtCWIXwOrUyt19e/1PSVEW+wZdhEBWeBKVT41WI=
+
+Name: chrome.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: iE4Nr3hQTKdcbNm2Koz7g3eJdSU=
+SHA256-Digest: WkfzY0GbFShAHrImU4MLw1u24ZDeDP595+xkriuuPu0=
+
+Name: icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8EN6hAp9AfDtJYFZF7w9KbbXzHg=
+SHA256-Digest: ET6w40TA5JpXt8Pi90FGBHovuKq8jlyFX+ppL4LhxRM=
+
+Name: Icon-128.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VGVsYkoQEptuJEeuDOazOL//tjo=
+SHA256-Digest: /oG9Z6HhyBeNJt0NeTep/w5KYHLqUDNnv1WEpWeTVjI=
+
+Name: Icon-16.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: h39vQKFxDiOzo4TeskB4IU9DAow=
+SHA256-Digest: dXppaBpg2S6oeZwrwTXgAT8+wqQU7Bo2al8W/yN/V8w=
+
+Name: Icon-48.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: R5HxaMFV1+qg1giVfyjUOnkHG2U=
+SHA256-Digest: Snrzx01WHkWb8fLUcBFJtOMmzC8iCh4EfRKzswvmQcQ=
+
+Name: install.rdf
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uD/I4UmKWdLmHy6GtH8j/NvoCQM=
+SHA256-Digest: KesRrLwFo8NsZxiHYZSt3u2Tq6kVG5qZnAEhiDKeI08=
+
+Name: license.txt
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nrrGrPPSOml7KpoMR+C51yI/LqM=
+SHA256-Digest: dUHXA7sx7KytG+A7h3IBxNZ1sOmTUbzCEf534t4Ie/s=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: BLpvwyorC5p0ePyHqNipIUbK+uY=
+SHA256-Digest: L5xevxa1K3nuZpVow5hOyeOh07/dnxCoiJ6B2wj6xyQ=
+
+Name: _locales/cs/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZBAko5TYj6vGyY/cvAuFcaPONuU=
+SHA256-Digest: 2tJp0FG03guohmFIoW7zj4O9wlzAM/jHlmY24Ey5ucY=
+
+Name: _locales/de/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: FwScZUYOIc7iKQvmAlgDuEF31mQ=
+SHA256-Digest: qQQMkRQFii2xENT3F4YoBroyY4bxbWBgukX3tPCYs6I=
+
+Name: _locales/en/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hT/ABzO8FGMMZX8iO8iFfuVywl0=
+SHA256-Digest: JcBCWoSBfsmRsH35nwXqR9thrOj24E4oKl5kvgDoaos=
+
+Name: _locales/es/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HIEDK6YkfR/ZjYWinTtiwQ2zDoE=
+SHA256-Digest: W6KdyqDB3Rt+2L2HDl/hfrpJpFM+AhDv+8royjkA8Qk=
+
+Name: _locales/fr/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4gP7z3iSCaYq/XtGY56h80w//2E=
+SHA256-Digest: svnlTTrAO6RGpFhL04zaUgHrgIbueEImnAax80yrS6o=
+
+Name: _locales/hr/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eMPPtvj07pGiJXLcveElaeoNvNg=
+SHA256-Digest: 3KM7bqJjk0Ob0ShnlC2dBCrBxLlnplwrEyq33fbUqT0=
+
+Name: _locales/it/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0s6FZ82iSEU9N0OgC5nmwyXrodI=
+SHA256-Digest: EaiQvCftgca19o7VPI5SUsFVhaGCyvByikFp7HwRFN8=
+
+Name: _locales/nl/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: p5+/Y+Pu2qn4/OL4EUZioJDNjyg=
+SHA256-Digest: LbugGiTAws8CGhNJOJJ2RAt4VQBC8OnJ1tabundW0Vk=
+
+Name: _locales/pl/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EgJmjbP9carAefZkrvT+JBCGuIU=
+SHA256-Digest: JaTCB3o0O+C55U7HsxzlGhhsH4Oa/udHb43xTrPLuuk=
+
+Name: _locales/pt_BR/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: n7iy5ezhahsQVYL3FORARvWTwVo=
+SHA256-Digest: gPbhJ9UExAxLEpfnUv5JHwahkN/sv7aYaeFEhqLMyWQ=
+
+Name: _locales/pt_PT/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: n7iy5ezhahsQVYL3FORARvWTwVo=
+SHA256-Digest: gPbhJ9UExAxLEpfnUv5JHwahkN/sv7aYaeFEhqLMyWQ=
+
+Name: _locales/ro/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: kh1t0r3jVN1DPPjTDd+tzlXDp0w=
+SHA256-Digest: DtFQKXD25J3qKDmcziY/gRR623Ic1FlQQ4ae28LIxk4=
+
+Name: _locales/sk/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eeldM45dSnVqIMdsnDG/lvvKNDM=
+SHA256-Digest: gR+AyevkhsHrEGLynGvjkKBCePIZvoV92B3Vbh2UH0M=
+
+Name: _locales/tr/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: pUe3vxVGhIR6US262s20GEU+J88=
+SHA256-Digest: h9pO1OT8UG/EmwUhzjREZlI0FRJgdrA9XmKfepQ5Wq8=
+
+Name: _locales/zh_TW/messages.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 9xJxLYC66sNhDWDsVqg3zqhH2vs=
+SHA256-Digest: MEnEm0D9Ts4PLMpp8FbqSH9uYtXcQmO/7cw6WRWNDU4=
+
+Name: js/agb_basic.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: A/hlkrulCw8RaTsqg5Q6ON9Xx8o=
+SHA256-Digest: Jln4HA1DiD/QNtUQcE6IAjN0BLOp6kp8ZqsO549VHGc=
+
+Name: js/agb_chrome.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nMCP+64Dmi19kTMowPwEW5T3qB4=
+SHA256-Digest: 9LN9GJRd9SEZzsV8zjMGt0iKWqbYVctzKXTCaniSkBQ=
+
+Name: js/agb_common.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: E+I4Y92m0QJehpWVVLwthdzPPlE=
+SHA256-Digest: F0DDMMdhL1jwcdum6AkE+4Am2W/MbFrZJvD87wSqO10=
+
+Name: js/agb_init.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8iGcJ0cGYf4GQBJ5EaLVwzoTGqQ=
+SHA256-Digest: 3VSYV9LTiM51xHQUAjdqfxY3GuMv2M/QSgsA/nOyHAQ=
+
+Name: js/agb_main.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: LDc3btzVfIEGdUPNu2Jibj/TzJI=
+SHA256-Digest: 7PSTCcVJGrEMpT5nk1r3zQLG5Zq5WbHxjm1thH/0ou0=
+
+Name: js/agb_para.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jc4nOd93PZ+A5yqWIKlDI0QW/lE=
+SHA256-Digest: bZEuHWXfWQhwY13f0jNcSieIhAW8aBIun7rFVjFUj0s=
+
+Name: js/basics.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Q7BZbc/bUOCO4OjfuEXMZoY0qeg=
+SHA256-Digest: 1geHe8ky5uyirE9HIalHmgSWyETcTizxA3Hp4qaHRG4=
+
+Name: js/common.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0yO7mT4jeG/X6ieTTcQzo+jBZ/w=
+SHA256-Digest: 62TZwqE0N2pLnhPCC2mDts80FmdzVvIS6+XxutDSk7U=
+
+Name: js/coordinates.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: a/9xNTixWlnc9Aq3L/kgdam+OZc=
+SHA256-Digest: ropsoLvCdoy7qesn2II/s6n4bJFchGcvRXe0NSGFzrI=
+
+Name: js/empire.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EZhPuBKILmY1JLkyhGpJ4b1YgPI=
+SHA256-Digest: iupddt2LztNeeo1sFiGVQaer13aB/joLYh9At6sizdg=
+
+Name: js/fleet1.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VMIzZBH/rR8Sz/J1+D8PxFHQt0I=
+SHA256-Digest: S7ifzFFwZcJPKPMKS5GHD/33INA3qkfWd3ee+RVcg8I=
+
+Name: js/fleet2.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: J1062sk7NYiUouTEzBk4G6NGtI8=
+SHA256-Digest: 7cY9ruEqRPv40aGl4y0MuGLBkpnsV+shG11dytAA9eA=
+
+Name: js/fleet3.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: TKhA+XsDaWwc0xqUyCTI1FbdsQ4=
+SHA256-Digest: gCV4UkysrU6mFcl79zI6ZiDLWp2KcGCbKvBx3vVUxY8=
+
+Name: js/fleetdispatch.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +aLkosyhUdIFHCgKuEjx+6wCQ7Y=
+SHA256-Digest: se6bGZq+QAiLBPHGCeFOmtLJasww2YwaQac6Qan1x1c=
+
+Name: js/galaxy.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uer9fFq/g32aZunZQ4oDDJvVe7I=
+SHA256-Digest: HxcmnEZcgw7rGBH6PH7pMEWibwoYXjoAz8sBC8TrthQ=
+
+Name: js/global.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Xh3rcHQyAJqM9scgPmmuhRcT3G0=
+SHA256-Digest: SPCpT4CHeFJtnZAAZtlEKw7ZoyPMW91MSikBY2AhnBU=
+
+Name: js/init.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uu2Q0zSl0UwaN4mtlu5OOup7pT4=
+SHA256-Digest: 4e4kLkuSbQ+9wMniFhY7MHw60KQtrncSb822gb7rnWw=
+
+Name: js/jquery.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: DcMttKqcXwPzs4xH2IPb1P7ROq4=
+SHA256-Digest: FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=
+
+Name: js/main.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: sQjR0kQxPUd9oO2vX5MHRl5lr1w=
+SHA256-Digest: GaJzyLoWLXoJutsMFJWmQQI4g8Q9LVN7jhEz/mg8Vt4=
+
+Name: js/menu.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +Y7u4gwsrxKHRkX+4iLvcYO8TIY=
+SHA256-Digest: We+Zi3Pzw5QcXkH1StW2m5lJg0ArwDdZENiw2f5+Rrk=
+
+Name: js/messages.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: c7GBPZbwYr2Gzn9Lg+TkHgbDGds=
+SHA256-Digest: sERBr7Cv6JqK2k9bErHhmmERkCMDqhMHSPE+7bp0zcY=
+
+Name: js/movement.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HMxuJMMIyG82kX/E1Hyzmbn/BJE=
+SHA256-Digest: 7m/mq8/BrCDFH9aHee9tjsxbBV/wIH8qtQNLsvvwE+U=
+
+Name: js/overlays.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Q7vjFw+UHOpfTsADYtOLCbhwd48=
+SHA256-Digest: O2/YNXCBkEBE26+gcLa6U1YpEWp8fJY1LFqIWe4Psi4=
+
+Name: js/pages.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: kTWB1NMwxg9w9km116I56MupFqI=
+SHA256-Digest: 4WFi+LK+uZUuuFlEmiNm2l86T+46RwYWgo1wfAAkGaU=
+
+Name: js/simulators.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cDGE7lm2fcLnsL9lyvgzcROpXNA=
+SHA256-Digest: HukdGlje3Ox1eTfWW+mLI36Tg929BZ1a09i4NiYc1Xw=
+
+Name: js/libs/purify.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /gXSkyO9zVVqGmdLV3qz8UINwog=
+SHA256-Digest: OwMZIVN7vQtsy8BAs2/j0KdE30ZKhmIiFkIQDhUBc9I=
+
+Name: loca/AR.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: WpzGtAl0ONRzylDfxhPdVAsxA4k=
+SHA256-Digest: n+rLaf4hIN7vXh47rzV6iGmgJldlAfJ7k84H/Hwfz1c=
+
+Name: loca/AR_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IENYl3LE4CcfKBjyEg1e73oMAXM=
+SHA256-Digest: W+n6QlnRd48vheWL3kqzWi5it8m6pRdpIA97Y0eE71g=
+
+Name: loca/AR_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VCYmMCRt/Y/stk6h6M/mA50AKSA=
+SHA256-Digest: 19dgd33D1P7C6tiMDu0n4VfN2aSWPAMtmDWofDZcnKQ=
+
+Name: loca/BA.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: B7vyQWo89kyIq68d0c4oR7GBavQ=
+SHA256-Digest: j2qGcP7QNvRPT7JcsyaXaIxm32PUf/m1d39aWiQXTfw=
+
+Name: loca/BA_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 47TqNoatMdytBXB0hlokIEfPnmY=
+SHA256-Digest: 6wTt/PeQbxVJLauPgNkIwJ0f6XKtVCdnIy37mFKZsx0=
+
+Name: loca/BA_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ItrIL8V7fJ7OZGdIbzjErghwpHA=
+SHA256-Digest: y58uyyd+DWjwdnR3Qn35glzwAL+VL1+x4/ER+45nW9c=
+
+Name: loca/BR.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: dCM49j5vedR2De6TsfE2/aqvGhA=
+SHA256-Digest: ZuyGzxnbVq0GXkH+nJnJqgpFQe+DTC13SgYYjvPGmzY=
+
+Name: loca/BR_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: loDxX4ddNBvN2ukKuCJTLwkjP7c=
+SHA256-Digest: 9ZUFyVzC+IITL6SwR+oAQ6QTJ7G76zrJvAO0IvotpDc=
+
+Name: loca/BR_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 44OcGQq3K8gZ/lSXvIhi7hpbyJQ=
+SHA256-Digest: cjXeVfcZTAMnT7oB/wQTJv7N080in0RA92oI1QxythA=
+
+Name: loca/CZ.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ciHp6S1ctsyG7FyQx92FQdZA3RQ=
+SHA256-Digest: 0QW/+zyC8GB81u5Uh8wK0TVD3cBb1vWxFWLuJvQhHz8=
+
+Name: loca/CZ_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: oeblrf6fvN73KaNQCzL2IWZtc1c=
+SHA256-Digest: pENTqRS0eEnPonpFJgplqVh9TeFEeZfvHCXt52K/Ruw=
+
+Name: loca/CZ_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cJREQZ88oAWT3Xj+mhHulZ/cbsI=
+SHA256-Digest: V7W0Ani5K9USw/ruUJN35UdUdEMSmwAvUdBNYX1ppc4=
+
+Name: loca/DE.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 45gTtYlNlVDo9RxPorcC61Wp3HA=
+SHA256-Digest: zbiE7vPPUQNgYnZ5547TPEL7Zq2AZLfQyZUo5HWRPYo=
+
+Name: loca/DE_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Banzmug6WZP+9YEB5mEhT51MDOk=
+SHA256-Digest: vJRV/2Jb/fjL/s8gF55ZvQeH4FKBajc6J7c8e2urauA=
+
+Name: loca/DE_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uwRXqDu7qZxZSvOiFHnW6KPADNA=
+SHA256-Digest: YTf6DP1iBnJkV8iST+xliwfnW6nSHoen3u2XRgK3kxc=
+
+Name: loca/DK.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: m2jEHrFQGG3ZuculbP+MrZ1L36I=
+SHA256-Digest: GTcHohFTuK7ZWJhRzBojTMuCVDh8U57Fa1dD9xg4UEE=
+
+Name: loca/DK_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EoTheT6KcIFLSVk+p2i/MYhzn7Y=
+SHA256-Digest: qiXpeARtaA74dA2Dfm3lvB4qLcYInb2hASVEtTjVP2U=
+
+Name: loca/DK_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZqcixFXYohUlXYw9+Pzz4rfePTk=
+SHA256-Digest: HxH71oDWkVnMYmOhWkGEBCT9nC90epuNSG6LW74bjks=
+
+Name: loca/EN.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: B9rJ9qtBg3roaeOUl9mGQ4Kukas=
+SHA256-Digest: rMo0+iNkUM0806Fhnb04/5dcKYMWhPcshmm75gBHEbc=
+
+Name: loca/EN_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wgKnw1Or8rAZpNDsQBquSqEWIpA=
+SHA256-Digest: dodfiTDD7pUuJQNAjBCc0ldbgaOpC5f7+HhWnd6nDfk=
+
+Name: loca/EN_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: dptfFzyCmGwQ1WgdKzIuGTWXeOo=
+SHA256-Digest: oWgiWmqOpWuNhQNpUhkVYbuZ5fgoHvBeLzcsjbomWWE=
+
+Name: loca/ES.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: UKFrdYVkWiXn1pJoxD2ONNjIC4I=
+SHA256-Digest: sFfQpICm5j46Q+Be3dtldy4HxwUwsHsaLsEezqrCoHo=
+
+Name: loca/ES_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IENYl3LE4CcfKBjyEg1e73oMAXM=
+SHA256-Digest: W+n6QlnRd48vheWL3kqzWi5it8m6pRdpIA97Y0eE71g=
+
+Name: loca/ES_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: l45VYRpkPqUWz+Wyyui0xnEw/Go=
+SHA256-Digest: ONl6+EHiIjDZ8mjo1v+W+qEh5+ah4JixRfE705Io3I8=
+
+Name: loca/FI.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: sy9PSxfpiiBhkAWvWlZpgwoyk4A=
+SHA256-Digest: 255q3oK9kusNcg9j7DUa0Ip3XAVwij0KApxnDSBYk/c=
+
+Name: loca/FI_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EoTheT6KcIFLSVk+p2i/MYhzn7Y=
+SHA256-Digest: qiXpeARtaA74dA2Dfm3lvB4qLcYInb2hASVEtTjVP2U=
+
+Name: loca/FI_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: WGX942rlkxgdEMv0g3YijkKwghI=
+SHA256-Digest: Pwn+XJRUfSEGaTKgn9bXOFDAqEPzKWUUirR8XI1QBVk=
+
+Name: loca/FR.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: sT3N6Pol06aeDqbQqfs65Hj/Id0=
+SHA256-Digest: tpTkSB0NRKsRbI1CqaSSoScfMeXuFFzR4fi8M0WuMtw=
+
+Name: loca/FR_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Z162/izzW2wisgMEZxY2fSz+/UY=
+SHA256-Digest: xYkSxj0F1hLDrmJqWJpZOoc/9gjdzkCkdx5q+KqkMC8=
+
+Name: loca/FR_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: q+Xixnm0SVE92/ZFTP8hEhQcPNg=
+SHA256-Digest: uTc5gTi8ww7BFtx7BszNfXwIfNZYa7U1AWyX79okS34=
+
+Name: loca/GR.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: I2NNiuzYdRBeNliBYpeIWWHpr+0=
+SHA256-Digest: YkDc/cJB3k3mXQTIXTDVQ9XATRr0OZ72eNrd3eq5QCU=
+
+Name: loca/GR_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EoTheT6KcIFLSVk+p2i/MYhzn7Y=
+SHA256-Digest: qiXpeARtaA74dA2Dfm3lvB4qLcYInb2hASVEtTjVP2U=
+
+Name: loca/GR_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EzTbA++Au9X7GGQKJrv3/x3by0c=
+SHA256-Digest: 2dD4U+HHO6oee2xyt/+tS1ACCTqrZXi92CFTDw/buPs=
+
+Name: loca/HR.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JYdDsJbMsemiOxnSniUbVM7jVD8=
+SHA256-Digest: 6y7d1L+ueM/GQhiTER5zQ4gVJ7chRcCg7baInxV90xE=
+
+Name: loca/HR_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 47TqNoatMdytBXB0hlokIEfPnmY=
+SHA256-Digest: 6wTt/PeQbxVJLauPgNkIwJ0f6XKtVCdnIy37mFKZsx0=
+
+Name: loca/HR_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mMwy5/pMUqrl04l4yFoYh8lkpyQ=
+SHA256-Digest: clVZiTX10362rKxg004hnLrWdM/9bHRpdcQWOe8bZ0Q=
+
+Name: loca/HU.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HDEZKzYSz1/iaR0bn6qxC0VKgaY=
+SHA256-Digest: byyJSb8UtNGik3dvxs0XAKsiIuk0RCB/nS7QOjzRd8Q=
+
+Name: loca/HU_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jZy4IjwkmrFgO5CGGuqFmSrgwJw=
+SHA256-Digest: Q0FPVBbgu6QG7ItysLXH+HKiWKaSXg8hBA5Nso5fNK0=
+
+Name: loca/HU_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wh++Ol+UOQr36IMlJ6EwM1aT+IA=
+SHA256-Digest: 5rZsismtbC7db8dHVu1X6K8ZqXP9GkL6EAXB5WQxzMU=
+
+Name: loca/IT.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: zHKB7lr7ozmIMl4KmTI9EQtsCaY=
+SHA256-Digest: Mt2wb7416xXW7Nr7AWFPDnDeWEDgP/a06XL1DCY+Q1Y=
+
+Name: loca/IT_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: RDy+cw48s5N195Tmi4knchGZ4DA=
+SHA256-Digest: 0FnSJTbbkn3rRML3dKrXK80UAORHxk5HY8uz3K4lR48=
+
+Name: loca/IT_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: J3E/y2xTVeVHExwz50+PsnrdupA=
+SHA256-Digest: S6SOSA51ipjj2keUTeZuzKVM8F/ICvSfiy+lD1sEj+c=
+
+Name: loca/JP.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: qRRCHIKr+axU4SqsmUQxhllWsTg=
+SHA256-Digest: zKi7igmIYeDGPcsKNIlEewnMfQoAvXJR3GvrYd/ACl8=
+
+Name: loca/JP_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EoTheT6KcIFLSVk+p2i/MYhzn7Y=
+SHA256-Digest: qiXpeARtaA74dA2Dfm3lvB4qLcYInb2hASVEtTjVP2U=
+
+Name: loca/JP_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0yjx6zDHWroYd4SlyzcueB2bf0s=
+SHA256-Digest: O1uPfni9I9WkjMkPmdq4DUaklrsmWa53Bjkg1/LeaQw=
+
+Name: loca/MX.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: BwTooRtx8K8l26jUmtubcF1gS2Q=
+SHA256-Digest: lag3QKZdhEMZ5pX0m8KxvbOcp/JInq8BkApy9AHNEbM=
+
+Name: loca/MX_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IENYl3LE4CcfKBjyEg1e73oMAXM=
+SHA256-Digest: W+n6QlnRd48vheWL3kqzWi5it8m6pRdpIA97Y0eE71g=
+
+Name: loca/MX_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mJE8eiYkWNmchVx51ezixYOaDKs=
+SHA256-Digest: Y8nhS4UIDGYqPqDlR1BJ3qpS97Smyi/jVuZ9r26Fd4Y=
+
+Name: loca/NL.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: YLwl1gOPciE/KL+uJ0/ZsYawdRo=
+SHA256-Digest: Ps6u351wroGmPP7PDqBvBJNNZ4O13EvaoPaRR4Jn7Ws=
+
+Name: loca/NL_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: yfI25zBthHt0KLse2lAt+bCSd74=
+SHA256-Digest: 3bj5DXLm5zwx+xiGWbCHmH+dDmqT2NbYpu0wZjSLa0A=
+
+Name: loca/NL_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cynzUdKFibyZ4cEj0/M20Mml8no=
+SHA256-Digest: AD2otpIIVtcD6l152XxRn/fNluYcS8KVhB0BFEBKHYo=
+
+Name: loca/NO.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: qJWxUruK/1ktkBWuWXTo+0z7SzY=
+SHA256-Digest: t9yk0pyQDUmYvD4pZfVWFJO9BxOT/mRVj93En+NPbSM=
+
+Name: loca/NO_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EoTheT6KcIFLSVk+p2i/MYhzn7Y=
+SHA256-Digest: qiXpeARtaA74dA2Dfm3lvB4qLcYInb2hASVEtTjVP2U=
+
+Name: loca/NO_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: i9sDECTRiRC/eVj9kFmdJ+91bi8=
+SHA256-Digest: 5DmLP1JBfXj8aJJCXKWX6TYRQpgJgoS478cZtg9nv4U=
+
+Name: loca/PL.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +ts9dnUD4lH/sIDsuuWyAt+Pb0Y=
+SHA256-Digest: AsU1lmJzgbQ9f7Q47r5QiANBnKhjeCYDhTDIDCn2c7Y=
+
+Name: loca/PL_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 5w2xxRpuWsAf8HreEqDHCLcOpWk=
+SHA256-Digest: eREy1uc+avIAKWnBzIcjaBSG2mB/Op7ZITKyGlJKZ2M=
+
+Name: loca/PL_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ftcltOn3b3HYTHOuzeI4oljmNLk=
+SHA256-Digest: 8Z7jle1VQw6pJaBy7qJheMBI0inITI45rghv3DksF7A=
+
+Name: loca/PT.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GnkZXaD7l6M40IwR18lPaaJ25Uc=
+SHA256-Digest: JIuomOfa1DPLqEGXbjSb6uiX1bhtmt1nOe3010KJe7M=
+
+Name: loca/PT_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: loDxX4ddNBvN2ukKuCJTLwkjP7c=
+SHA256-Digest: 9ZUFyVzC+IITL6SwR+oAQ6QTJ7G76zrJvAO0IvotpDc=
+
+Name: loca/PT_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uj5QelTDgIrcYJhJVa+JzzWoodk=
+SHA256-Digest: 2os5wZDWVUNJlRfysPZkL9ti1rw5fPhQTe16lGQOYcA=
+
+Name: loca/RO.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: gqRKjBsLZjbGj1MdpBQpEv6/WTk=
+SHA256-Digest: Fka0IAZd6uqZo5xUO9g1CQ/j0vi33amI9zP1Pxlp5B8=
+
+Name: loca/RO_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: TTV//Q9GbrRxK3gIqqhQ8RRPUGQ=
+SHA256-Digest: glgsBCnVav0YA2yifEjka6XbMlFYDRhFac6QdZ1Xxj0=
+
+Name: loca/RO_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IZkA0PAWoUA9eY4pLV01wJoa0Ms=
+SHA256-Digest: Ej3Uowhy5ATVPY7xPcWOUrDZu6vt/2gET5o7ay4I2hU=
+
+Name: loca/RU.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Ifw7nO9O9unJFV0wTWrgOdxMXoo=
+SHA256-Digest: B7kFM5WGzta6ZAjcCjC2vpmf6Rpp5nQZ5KD6L7uZcWI=
+
+Name: loca/RU_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JkgvZeJU2expdDvswm2qBj+F0Is=
+SHA256-Digest: BR+R2Ky7wEjQ9aVcaCFXUuvmoPwTtwCPztohDlRk/3Y=
+
+Name: loca/RU_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GmnJEouGBccpxUXDB9lUb/Mk6rU=
+SHA256-Digest: QAZQs4/vEOcN2J7U/j40tmGYXHZx0oR6o6+x9WjAuxU=
+
+Name: loca/SE.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: O2HOk2yXA7eU1AsfwDZn7OJ9XPk=
+SHA256-Digest: iV0V7yChjHJfT7QUJNr/NQezmHx8g01OXObWWiqP/lU=
+
+Name: loca/SE_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EoTheT6KcIFLSVk+p2i/MYhzn7Y=
+SHA256-Digest: qiXpeARtaA74dA2Dfm3lvB4qLcYInb2hASVEtTjVP2U=
+
+Name: loca/SE_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8f1WOgdIQMJFyM6Sd8wNH+dY+Os=
+SHA256-Digest: EAtMwlfhWx9c2ND+bFKdacvrAG2qMalnQRQ12EkDr5g=
+
+Name: loca/SI.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QvoJjXVokUHn5mpfSXptJ2WK6Rs=
+SHA256-Digest: bePUJFn6NL8t7o5vr2JgziDqbGPlrNtgpEER72DDQ/0=
+
+Name: loca/SI_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 52SUAzHX98ao6502aIwdgM3DdH4=
+SHA256-Digest: gyCrJG2q+RXBxA3l4sktOZSTWoimwx7PINrFi3SJh1M=
+
+Name: loca/SI_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: qTwwjyHnaZdr3tp3wDZptnsPBZk=
+SHA256-Digest: T1Z+qpJN4v5w3Hraw0xIe84/sm62NzKhRcHOMII+Mvk=
+
+Name: loca/SK.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Lpum7CLPyc3oe/qZRYYwueq/amQ=
+SHA256-Digest: VtHwW3PEZdIDybAagSnRAOKxKCWGvkiaRGZULXv3E/Q=
+
+Name: loca/SK_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EoTheT6KcIFLSVk+p2i/MYhzn7Y=
+SHA256-Digest: qiXpeARtaA74dA2Dfm3lvB4qLcYInb2hASVEtTjVP2U=
+
+Name: loca/SK_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZXxaoez4umyBaQCN5KqEIpOn+GI=
+SHA256-Digest: nasms8CbOakSqJ3rG1ZQ6MJvqOr2C+75QH9NyyGnDtc=
+
+Name: loca/TR.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IBFlzl+NWBpvtWeSnQxBFdZXY7E=
+SHA256-Digest: 15kQPKgZ6t1mOWpexSWLp0hxgWnGzTf7+2xAVSOJNhg=
+
+Name: loca/TR_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: aDQp8b1D3rBi+aNbKQkAK5jpHXw=
+SHA256-Digest: zMOSIijQgndANuCLV4zBMOiCLzOa+erbugg1XBbI+CE=
+
+Name: loca/TR_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: j8QmjFDtgtQp7dgDoXNAsUohdZ4=
+SHA256-Digest: Rm91Ovr3sqQy0Y7DmS/0v+jTZaqImw4lFfkquQOMiPc=
+
+Name: loca/TW.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: SzUWHUXqLn53kizIJfKOfLH+o0o=
+SHA256-Digest: MW5fPEZYfqAJHqXLI604LhJc3GJa6+dkFgBt6x53dyk=
+
+Name: loca/TW_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: c+ejxOwkGjxTP4eaOIyuBLdL990=
+SHA256-Digest: Ey9Ne618tKFWm2ZLlzBKbO1RWIgmL/ALJZghSxgkYco=
+
+Name: loca/TW_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: AlXiAoXIE0PwX4Mn8PQO8Up5whc=
+SHA256-Digest: /1hWMtUT8zXufYPQGklT2Ij15SRpcAbXeXn9p+0DAPQ=
+
+Name: loca/US.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ayo/f/HdXDdPYE8IxXFD9ja8NU8=
+SHA256-Digest: pY9oeXpGn23Kebg5Q61BOLfY2uzNvA7fkwqqQO1CCEI=
+
+Name: loca/US_help.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VtWabB87yVLAZeF53NOB0y2evyA=
+SHA256-Digest: e7BkHHB9V3SdY1OaE/q6/unZbldcSpSZsrn6MaiOwjI=
+
+Name: loca/US_menu.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8hEAVnB0sNEpA+Y68rGLw4DMVoY=
+SHA256-Digest: 8ttSbmdBnr3e+zhKO/Ffg6o3QODyldRXc+zPaCtn/jQ=
+
+Name: skin/board.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rce0AkXgH3FApn+TPdedJvy49GE=
+SHA256-Digest: ffOgKpEkpx0mtqsc4ALRFYkywJPmUgWE2Hn5OjZsJLE=
+
+Name: skin/ago/main.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: k4YFYDOF5sN26KFM0p/3n4XxeMQ=
+SHA256-Digest: I5BEJxgabGL7Ny7A203pY4I0er59adnEm7xswEez3Ko=
+
+Name: skin/ago/main.v7.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0KfQzz8rngjWKJcZf0z47AcE3Es=
+SHA256-Digest: NYgOT8Ls1zdLogDiD9wiwec8V0vqcpF/tMbOsJitRWY=
+
+Name: skin/ago/main_events.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: qS43+a3kTAjI9jyMVHMw7wJTVFg=
+SHA256-Digest: ntWhVb8y7EoSctq20e3fNeQ65/pRfwikdGUib21Zxko=
+
+Name: skin/ago/main_events_improve.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: sih7NUuTjVV+lA0F0sOjaNo0KzQ=
+SHA256-Digest: xkqLrkykbx3lOsJV5BFuYjwtIoMD2wfGQCtRpcfotkQ=
+
+Name: skin/ago/main_planets.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MATfDtGR8YiNTeTH0LOC2IMVx5c=
+SHA256-Digest: dFpIVKydi0uUoPIHwqOacQGmhY13x/PQ8FLkRlBhxDY=
+
+Name: skin/ago/main_planets_improve.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ekfrcFHZoBvSc2GAZShaBWobia8=
+SHA256-Digest: UOf1GdcoRjzyEwOQbiU15af50pQXBTxet4Iys+dKR7M=
+
+Name: skin/ago/menu.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: YXxswHVURHsbAM1ldK284QkvhJ4=
+SHA256-Digest: R8TvoKAAcjmj6uRgtpwgH8ToF1zqlzzxsarEl3emmAU=
+
+Name: skin/ago/ogame_mobile.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: sUNjwzW/yvP6xpr2n2qdJyL/Jgw=
+SHA256-Digest: T7frfbiU8/nzd86HuA7Wy6bJTx0JF+6Nixu0fpcBT+0=
+
+Name: skin/ago/pages.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HG8mVEZlvUlXqL6swl4n00H+7Q8=
+SHA256-Digest: X8x28h113cM/O30pMSV6JjwY706hqH8PnR5hsIz/sco=
+
+Name: skin/ago/pages.v7.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2qCquDl8fBT9svQpDnXz13hnv04=
+SHA256-Digest: F0cYnp6n+lj5D5K4fDJheUlAf04Gmtg+DtCvOv4Z3ko=
+
+Name: skin/ago/pages_empire.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mjAaNbxPiSsiNab+AzuFReSo4DI=
+SHA256-Digest: /ifqe45Vb+x/3wTR2/iI0k67keMy2pVTD5/pTdO1tHo=
+
+Name: skin/ago/pages_fleet1.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: kDp8VGtkNEKdmNYoNJDLFrX6OvU=
+SHA256-Digest: Inyu2dNZDvpfz72CYJpIhgrBpLke/Ei0wjiLYH6e5kY=
+
+Name: skin/ago/pages_fleet2.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: amij6z2LUt6cd9HnEDT1fiKvJt8=
+SHA256-Digest: N/O8j3TPVZ5Pdd2uqv8NsMvUUUgVZj+klO2V4lUTjJc=
+
+Name: skin/ago/pages_fleet3.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: UqQr3CX0CxH7F5D8L2PfKoK8e70=
+SHA256-Digest: kOL0MIKa38h/rB+e4cx+ueqWhw0ZGEG5t2jmjbVBj8s=
+
+Name: skin/ago/pages_fleetdispatch.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ItMOSqwtf0uMmDbUAj2I4ETFvCE=
+SHA256-Digest: ISKZtCOk4UbWRx6mKJ72ET7mBxQoy/AsnhKHf6HH4mU=
+
+Name: skin/ago/pages_galaxy.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: FnSukO9hVCZ9nzDsuntNsDvcIow=
+SHA256-Digest: qOyDJ8dv6/75EEjYP0v3fQgW8qVBUVyY7My2R6+qykk=
+
+Name: skin/ago/pages_messages.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /WTN0JSTn690ji/1I48btFsoKuA=
+SHA256-Digest: 8FAx/HAb8aFHMT2WDEAI2Zye5OUCTm82Qcj3r/AYdD0=
+
+Name: skin/ago/pages_movement.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GVssMhUcbTAMalm3Be+w3CgHcIk=
+SHA256-Digest: hzpgY3LnPHhoRkD6GW1erChIGRRlS0hzIK/QscQhoYw=
+
+Name: skin/ago/images/ago_icon.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8EN6hAp9AfDtJYFZF7w9KbbXzHg=
+SHA256-Digest: ET6w40TA5JpXt8Pi90FGBHovuKq8jlyFX+ppL4LhxRM=
+
+Name: skin/ago/images/briefcase.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: vUx4pW59sx8UeHr1f2DP3iZhkHQ=
+SHA256-Digest: DHr9WMBGuHjsHqXCYj2URr8AvC4MzbBTReKvT5OhWpw=
+
+Name: skin/ago/images/briefcase_empty.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: px9Qv16jRZXlExhbX4kMLx82LAg=
+SHA256-Digest: CQ0QFe0N23aAi1rnz4GSb1Io2HGWyyZoe0XYT3JUAkI=
+
+Name: skin/ago/images/briefcase_empty_hover.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NGUf1AtIz7pTOesc6v77FHRZEc0=
+SHA256-Digest: g5sygLfwevzKui+5R8bBCW3zejk4K0MWftEFKPPVoF8=
+
+Name: skin/ago/images/briefcase_hover.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: DvVyKbTUn58kvzTryEKa1WiKZpU=
+SHA256-Digest: UmsLbcLvb10uKQG2XDnmCPofRyEwQ6sZ6CVXFaf7IM8=
+
+Name: skin/ago/images/checked.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uqsnQIlTB3KttbXVztOI8KqNLVo=
+SHA256-Digest: +2DkeL1wUSApRkhNdVN2gXzaf74cm49UzjDY3L6uNRI=
+
+Name: skin/ago/images/checked2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: BRUK8pO5bNnA5yD1P55JsxyI8/0=
+SHA256-Digest: tX2m2+jcP/Ruj2f1fKQPm5Tdv4v94Qx6Njyjwjc8AjE=
+
+Name: skin/ago/images/color_marker.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: TQfEhjjg9C1Haz1an7GDNL2On+s=
+SHA256-Digest: VX+BhbAfXl3SzKrJUPB3VFB+0O3xJanpIhWUkZmNj7w=
+
+Name: skin/ago/images/color_mask.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: O0NI6dhH0wbyEoqTq+5QAxwn4PE=
+SHA256-Digest: jbntofBZfPu1vex5UH47rD30b9iZ/cW76OqS5BIEOfI=
+
+Name: skin/ago/images/color_wheel.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 7kdH9PxkYJvphuQxnV2+oNm5/L0=
+SHA256-Digest: 6mj3sWMfdJsk++qPmZBaRYESQVZBmiCRr7955dae9Ss=
+
+Name: skin/ago/images/fleet3_send_green.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: kjCDr5zz2sxdDC5A8+B6OYqZFpo=
+SHA256-Digest: maehKYUDll2/9bsKXx/Bv6dD1ZVLrmMxNEeFEPMJsys=
+
+Name: skin/ago/images/fleet3_send_orange.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: tH8ZTG56NGZrYDz9UgwFwVXB+Es=
+SHA256-Digest: ldt2RuLE5P4hI8PUoehh8ZiWzEI+woI7zfOQL+TBTj4=
+
+Name: skin/ago/images/formular_buttons.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wi/VcTErOQ+enIo/G1nfJeacJbs=
+SHA256-Digest: PGiojUDigbOlsXo/lwcj7FFPvA4msAB+UVcXByAVDzE=
+
+Name: skin/ago/images/galaxy_debris.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cuP82o7YqVCYmMfd7JQgfQq/yEs=
+SHA256-Digest: 7ZR3xbhhdPxswVCWdGVSCfBMmNSgbKrpnv5rtjQ2EzQ=
+
+Name: skin/ago/images/galaxy_debris_shadow.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: egM8aVaB7mT9++DZOywEBrn88nM=
+SHA256-Digest: OpjV94c7FVS8UnfocAv7B+HIGovwEbINui2HaF7zP0U=
+
+Name: skin/ago/images/galaxy_row.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Y7p+QG0zhZn3FkK7+muVXZO1ZrA=
+SHA256-Digest: xA82zkcAmeJ5B+sp5uTgFmau78bJTH4t3VgII9CPokQ=
+
+Name: skin/ago/images/galaxy_row_empty.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1m4NK6Npvh5mL+0B2PD0UHxTiU4=
+SHA256-Digest: x1Dckw481fka0c71QWYSABSJITG1Pf4xnJfUj62w0Io=
+
+Name: skin/ago/images/icon_blank.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JNj8xDk159MBDgCIxyFdohTsl5Q=
+SHA256-Digest: 23ZjHeWLohHYGFGbfjin4jZDqu/1h64hEUMhJ5Q9QLk=
+
+Name: skin/ago/images/icon_hover.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: PC3GByJnSwlSLtoxT01WXuShaLM=
+SHA256-Digest: dvn6BH/JsG+xSv5YaZfmfsmO2bGLUkN0gxNO9vpXTWA=
+
+Name: skin/ago/images/icon_reserved.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: WtphCRqH2EAc3vx20SNVoRlDd6I=
+SHA256-Digest: 5eHl35k0zy7kmd1JGurqVxQLwhez6gQqW9z9MbztE2A=
+
+Name: skin/ago/images/icon_reserved_red.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +QZ+q9ZGijHURM+DutS4+kSSLKQ=
+SHA256-Digest: mZNQ//lcUesxYmLc2FCOhzkV0ZG6fQ1is6OhL15tgNg=
+
+Name: skin/ago/images/icon_return_red.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jVJnuWd6jQmxPQAzG6ESFuB7ff4=
+SHA256-Digest: fqaEAOMp0mFsAjQVz+kt2ccDhcKrOaxtGb5R4eLS/aI=
+
+Name: skin/ago/images/icon_warsaalk.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HUKxUDNgufJy6z+1hpL6t3TB6FY=
+SHA256-Digest: lZ7ZZIPLzD9iAahPK8PmaRolw0R2zpNwTng3OPYWjHk=
+
+Name: skin/ago/images/icon-none.jpg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: TEnkaeij0TTu/4zJ5aMyA+7dUZw=
+SHA256-Digest: qBjrwzU+5lyBjqwdKR61ySfXUlwu3n5zIq1thH8rA04=
+
+Name: skin/ago/images/menu_button.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MfAeeb//KGf21aA2T6xqm4FYSKM=
+SHA256-Digest: ju2pikKBdhJmGflcYCckcQXorPJ/oTJ4OdAQzY7vpMM=
+
+Name: skin/ago/images/menu_logo.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: pWi67Ms0XxMS+Q/dfgcjM1YXysk=
+SHA256-Digest: F7r7TOD7waSlErhEO0pT/i9iLs84k8Ow2dIhkcVjc/w=
+
+Name: skin/ago/images/mission_fleetsave.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: vWQUbxtU3SR8JSkyXMFZUl5Wo6A=
+SHA256-Digest: Lwph0MUu/pdjPLGjyrwAcRtw04CDyB3ZZgfDCHpqOcA=
+
+Name: skin/ago/images/mission_last.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Qi/DRVvX1oinOA5LCHV+rN783Ec=
+SHA256-Digest: JRNVz31i92xAXa+hHDFJ0RLyaCqYrus4HZ/MF5omIbI=
+
+Name: skin/ago/images/panel_arrow.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: P/hN1AxPCxhT4z5+hu/e52omovs=
+SHA256-Digest: xgXhH4R6FZII1enAjcPmjLFkPRiUDazcfMhEFOhyKbA=
+
+Name: skin/ago/images/paypal.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZTVWejzpPgku6SvJn1IPtTn6sUA=
+SHA256-Digest: FU86ntTzrABZ/Bgzfzy00oED80mz4lZFj2o5sj08CSs=
+
+Name: skin/ago/images/planets_arrow_moon.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IcgS//NGLUjXDKbvhU/MS8zXzCM=
+SHA256-Digest: 5XnaVyMiuavw+19msg4P/i83RZrtetEwa2DsT3xFBpA=
+
+Name: skin/ago/images/planets_arrow_planet.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: aRgEpFXokuOQDUIHqSt9HIJ7CFY=
+SHA256-Digest: A093fYXvPNu4ROhpULlpjtmFbhjRx+MDFUxDnF9LUJo=
+
+Name: skin/ago/images/select_all.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: U8pLhSE1c0g7L8pbtfII/1VeZAM=
+SHA256-Digest: qFSjcZH6Ysql3BBSrqcPxcxf6L9ASWjdiHjFh7VIUEo=
+
+Name: skin/ago/images/select_most.jpg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: WPj59jOOx9uDEwvTtjFTkbnUOd4=
+SHA256-Digest: lVssozKUvGPsBj2qux4swxnT4qyesfA9uZzv+avZICw=
+
+Name: skin/ago/images/summary_background.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8beNA35RVS/q8tPzFUoZt0lEGaY=
+SHA256-Digest: diOBBwxHDW+qqz9/ES0fiJxwvYlLVpBLhz9aOsKE+nk=
+
+Name: skin/ago/images/planets/desert_1.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1G7I9u4dO9GJ2ek17Fa+Bm9YeHA=
+SHA256-Digest: 5miMIJ4X7TL6aLFoJCcGgpaDbNm8DcxkjbJFCHlb8mI=
+
+Name: skin/ago/images/planets/desert_10.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: oBIwOaqaCsGdYsBrRkcRggdYtgw=
+SHA256-Digest: +ckNK4z2w0CTIjJ/PhSXA4qSX0UwrS0WsslONcgoEQM=
+
+Name: skin/ago/images/planets/desert_2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /VyxIvDe9KNFz9hatUncSkJ8asA=
+SHA256-Digest: 8l2+MZvmK5vZ8ktGpWBHAyKYYt4aEmHGz7sbHc7d9gk=
+
+Name: skin/ago/images/planets/desert_3.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: XZV0wCsvEPUIx4aTMFKHwfCabDs=
+SHA256-Digest: HG/VPEtqzl+XtqLC4UN6NwEZAYYurTWe69M61IkB7dM=
+
+Name: skin/ago/images/planets/desert_4.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MN3JC5Z8qjmRPE1zfEK3rEy6NT4=
+SHA256-Digest: MFFr9pMHiq24SLUkS6mSUPK2oIz4Y9UCS72GevRPqdE=
+
+Name: skin/ago/images/planets/desert_5.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: dU00CdEXpHl6UgYqHq3SG9sJQp4=
+SHA256-Digest: tyXWhH4w6eM3ojas8RbrPY4PQ76yrCvbyiMter/dqjs=
+
+Name: skin/ago/images/planets/desert_6.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: YlUbWaN6LvNHaX1vOn3wWPgi6No=
+SHA256-Digest: G8i77i9n5btnmjk2CAui3mR+U8ena4Oj89VIFX7r1ag=
+
+Name: skin/ago/images/planets/desert_7.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: x7q8Fxpd4pFVZfkgG136xaHbpJ0=
+SHA256-Digest: 1v5KUyGtYUUgtBzzsYLUdX/UWvRj0CBM+c8z+pU8vuQ=
+
+Name: skin/ago/images/planets/desert_8.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3qBRQJmqItZS4ZMgYOiDRifiDYo=
+SHA256-Digest: 1WSSn6RPvpjxIMitDCVf4vDQ5yNPzE0l4VUuWxjXBWA=
+
+Name: skin/ago/images/planets/desert_9.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0yE+Iem6jU92jnJ8kVzq93s0csM=
+SHA256-Digest: a+zBOKOhVPsRkImigWXRRrOAapBxqwkp6Ym3wJzYW2I=
+
+Name: skin/ago/images/planets/dry_1.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0yRjeZoDnewltzzoIzmnI+vo9lA=
+SHA256-Digest: wUu0opsUK15Y8VCsU1+wa85JcG7A34s9OutmwgUEWJs=
+
+Name: skin/ago/images/planets/dry_10.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: gq8StEMuV66bLn91Cd5l1CugoE4=
+SHA256-Digest: w4GvuhiGSo15XzO+mzhYqKQoHnFObtDh0oR/awGWLZs=
+
+Name: skin/ago/images/planets/dry_2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NdHFo2VyTKHWE+L+JycPEs2j5E0=
+SHA256-Digest: /rTJ2DSjKkCDeWc0jxLStK0JtCa7kr3OpPyPxKmAAFo=
+
+Name: skin/ago/images/planets/dry_3.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Sc2bH2AQFIfv4c8jekvaFCizXFg=
+SHA256-Digest: 6ql4c+Me78EJKug2BusxEzCSDmdKzE+w5ju8AEES+Z8=
+
+Name: skin/ago/images/planets/dry_4.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 20fzHTJ+wDLlxYV+KN0kUBhg68k=
+SHA256-Digest: Jua+7H4hMCB2DkJ98tPs0CqL1muWm9w1DLbf09ofGPE=
+
+Name: skin/ago/images/planets/dry_5.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NNzmFhW3ZF/3T1ObLMY/bpDNhg8=
+SHA256-Digest: eipOYTwxql4sUGiVbbAv+EYVw9PvDbDiB2qF0RfN+sw=
+
+Name: skin/ago/images/planets/dry_6.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QxjVdA0ZT6rBIrW0PCsq7HBrGrk=
+SHA256-Digest: wtAHtCMebUH5DvSzaFYeEqy3nUeNYSv0kACNbKHaAP8=
+
+Name: skin/ago/images/planets/dry_7.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: fpaSpAWrp1BJdQFTiRAcOKCFWx4=
+SHA256-Digest: u6t//oo+xg/ThK7zoJywBWqMicQQJNFftwptubh1+fI=
+
+Name: skin/ago/images/planets/dry_8.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QVb/Y9IMSXE5XkwIOgdtSXTdTJ8=
+SHA256-Digest: L/MsYhkYOqRLBLEUm+6ees30kUN8/HizPg2IdzkS8bo=
+
+Name: skin/ago/images/planets/dry_9.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MMDM3lYp64GW3Tx8aX6TsjtKkA4=
+SHA256-Digest: LnmWxS/FpMRMr/6TvIuwTSft2k1ocEZF+1iZvdbQqag=
+
+Name: skin/ago/images/planets/gas_1.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: namxqeCS17/BRq6e6lNboj+F04M=
+SHA256-Digest: 74cI/KRdf9UIkyhb9FkX6k0EIgghPWbhcmgBNTi6qKs=
+
+Name: skin/ago/images/planets/gas_10.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /LiAndhviHWmrinPeiaZwpVr4HY=
+SHA256-Digest: 07lSjtOxFEgN2vPNSLnoZjygqmeSMK8F2chW4cgjvGk=
+
+Name: skin/ago/images/planets/gas_2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eYkdrocOUUwNOA0N/pzArbqBwdU=
+SHA256-Digest: cdNioa5BeS2am3aExCS6WWPzObUh0Yzm6RhMhWZyDdw=
+
+Name: skin/ago/images/planets/gas_3.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MhujFmf+HwedSsTBq62HYdZnCgQ=
+SHA256-Digest: a4jQ9cIxaOJupSGhLsa5vcV5u3T+OxlwG7wOPWKQ1Ks=
+
+Name: skin/ago/images/planets/gas_4.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +AjYvahT23NQGOd7O2b4wXR30ZA=
+SHA256-Digest: fCooA8btJHWD1iI+Xu5/35pt5M7sDVxsBvVILUVYGgc=
+
+Name: skin/ago/images/planets/gas_5.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: x8aRtS3qvs3tugt8Dtnz9l70nnw=
+SHA256-Digest: o6JaCPZf1YCxRFUCb8NTswYaLO2UbnUgucrSxhyeXb4=
+
+Name: skin/ago/images/planets/gas_6.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: NSRKkc40wTJh6eaV03CbLq3lei4=
+SHA256-Digest: Us8VTeIZTeAzXo8Yglf8KweyYeYyWp9QtQTeqsuHdsw=
+
+Name: skin/ago/images/planets/gas_7.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /xnV6DFgQ24goVNNRx67fmlMdgg=
+SHA256-Digest: Ss7vpZu+0ogtTeB1BImp0nBvJHUuBzjroFEyL/B8y30=
+
+Name: skin/ago/images/planets/gas_8.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wXM9RDlNadTbW3lGyJRrYME0Cio=
+SHA256-Digest: CPq2pSbBtNnO0RC3bPsybXMm4qBXBT4b9IvKW59bG2c=
+
+Name: skin/ago/images/planets/gas_9.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: qKyKaXyvmIb9b6WGVQeKjoyt47k=
+SHA256-Digest: G5X2aR+pCQqVXrQL6HycNc1gm7NgcaJdxV5MOr0KWTI=
+
+Name: skin/ago/images/planets/ice_1.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: bz6PpPk7tN2e1bQGLeJvDdyL9bA=
+SHA256-Digest: TzyHurr/yLYOjxQuBsxKguowQ94LPiyqTRTLpF9incA=
+
+Name: skin/ago/images/planets/ice_10.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: YEJLmGCB95D6WB3L7qFIUlnmgRQ=
+SHA256-Digest: uErQaR6DCQhnYsnL0A+O9wmYTEWcGXpsxAKzgyzdxrY=
+
+Name: skin/ago/images/planets/ice_2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eLy3O8iBl9P0zLWiR/vSqNjRJAE=
+SHA256-Digest: oOY8bVpwMW0stYF1cKRg+37lyNYL2kBAaFU81X6La24=
+
+Name: skin/ago/images/planets/ice_3.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 9KjhzvIzWHkPnf9+0t+Rmsl8Erw=
+SHA256-Digest: Ovmvtm680oN0RsbajBvdPIXcMIQHzG9GoKfwPs1Y5Pg=
+
+Name: skin/ago/images/planets/ice_4.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: QRc7uNBogTUs7NVaXWouKntT1q0=
+SHA256-Digest: 19IqyJmhLMs4iTmNRvThL1exANYcWi/s5Gdbusluv40=
+
+Name: skin/ago/images/planets/ice_5.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: J60Nny7ua7jH5Ub94LAZ2UDLoKI=
+SHA256-Digest: q/ZptoiLSQBULZgXQN8P771SbmuTid78yViAicBqKOk=
+
+Name: skin/ago/images/planets/ice_6.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: j7E7q7H7DD4sha180o0LiEG+ugY=
+SHA256-Digest: 4vZ9O8Vauer2mUdZfznJgvWoA5N9I61XFCPdT/AoHQU=
+
+Name: skin/ago/images/planets/ice_7.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: P1nMACyo3vQQbkymKLZE5CRG+4A=
+SHA256-Digest: RWBny6nqXKL1IRzbbH9Nc8Paqii+w53HvhSxs5yh0VA=
+
+Name: skin/ago/images/planets/ice_8.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mrvJxq/stX3ETE/d1bWwACUQ/cY=
+SHA256-Digest: jILKM+kK42HwbNbryIaV9srwpVaAcUrsKnb+hiv0UaQ=
+
+Name: skin/ago/images/planets/ice_9.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VBkPFxWYv+jc1Wkq7CxWPCE517g=
+SHA256-Digest: Bi0rX0CWMyejQqyMARMke38cqot0neEBcIPrWcaQJ1I=
+
+Name: skin/ago/images/planets/jungle_1.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cc03O9m8xCXu1f43lKddkvbjrOY=
+SHA256-Digest: skQfTDSIGwmTf8QUPo+/vqqoUxmn4TeWj1PhSO9iHHI=
+
+Name: skin/ago/images/planets/jungle_10.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: oMws10G2pMhK2hMVQawcyJHX11s=
+SHA256-Digest: +kvSYbTHmDIE/nevlSwUHMDwldCsbtCjq8q/+qIxugQ=
+
+Name: skin/ago/images/planets/jungle_2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uZl4E2AmlfmZ+QtcB1N6hKhW/wI=
+SHA256-Digest: 4UB8HgqRu3JAhft8QymaztEGa4HZz5Lbfe7wYk/8Y64=
+
+Name: skin/ago/images/planets/jungle_3.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6p2kKbOUuSut5yoGZ6TIc9MgYtk=
+SHA256-Digest: FvsVCBQsOlL7OJVOSlNPMCo9MYl56Q85YxdHZRs2IsM=
+
+Name: skin/ago/images/planets/jungle_4.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: tSkVvKXV7AEW+YN45X5Ba+3nyfU=
+SHA256-Digest: 32pVpAtoxar8wZgyBrt6T0AcHrvaTCjfbx3w986UwFc=
+
+Name: skin/ago/images/planets/jungle_5.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Zdkki8faFPbgqXrxgGyI+cNznFM=
+SHA256-Digest: R9wiawN8L2aYO+NhDJCwADHkMWdBt2BLHeDkQkxVV84=
+
+Name: skin/ago/images/planets/jungle_6.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: P9ySCyy5n8tzZVLhY3W9LPKM9IM=
+SHA256-Digest: v9EvzpSRHluHT5uTfdBFNXGJiJzA3KZW5HOYjXb8E4I=
+
+Name: skin/ago/images/planets/jungle_7.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wmh824DJfhumRGtibj3aB9KrTIk=
+SHA256-Digest: 7p+gB2n03TenyZj1mIylTQZ+Odk9u/8sPrAw7IlbGiQ=
+
+Name: skin/ago/images/planets/jungle_8.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: UmeRREmIdII/2SdiREK+b6GnpCM=
+SHA256-Digest: uMqEYE1xd1AeDnTNaEGzoobQS5/QmSXvGvGU9oFazL0=
+
+Name: skin/ago/images/planets/jungle_9.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: rtUeInAir3f/sdWzdrKQqBYAwOc=
+SHA256-Digest: gSwjNbN4nEvv7fmFV9Q42KM9VQaZhJaML9kObBHmae4=
+
+Name: skin/ago/images/planets/normal_1.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: al12eFtabbHMFBviWxjruEACUMI=
+SHA256-Digest: z+cM06YHmXS8rufLQL3f+jTjYX5J7D5Y3hct9+mMovw=
+
+Name: skin/ago/images/planets/normal_10.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: t4xhmTFO/HPS+1wnSjLjv9TjGpE=
+SHA256-Digest: upzjjBrgUQQ2JaFhg+u44rZwAdTog1Q44M3jusTci2c=
+
+Name: skin/ago/images/planets/normal_2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: iI2fZvh2ZqxTwNT117EXhZG0AtM=
+SHA256-Digest: xhtFoHGXUWp0kqUV4KMcXanjUp4geuLd8CghjPn0zxw=
+
+Name: skin/ago/images/planets/normal_3.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4s2n97fPR4gxduLEQE31XfqKcRI=
+SHA256-Digest: Bvl+AOgGJwfTFy4pSTaO9rUNTo0byW8hKHACPJCYl6Y=
+
+Name: skin/ago/images/planets/normal_4.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: fuUgiI31xWsXVSQhQo4CQJBwdvo=
+SHA256-Digest: 6L4LM7814CTqVwJkOdgUW/fDGjk40MdmgdfjP0c7ZPM=
+
+Name: skin/ago/images/planets/normal_5.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0tpg1iO6F+XY5IbQMdzp8JWgY2k=
+SHA256-Digest: tUi0GrcivP1pe0BX6nEtqdkjNc113gsvCtFV0gu8iD4=
+
+Name: skin/ago/images/planets/normal_6.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jZPeRMKxB387HLwkGToGA/FSquc=
+SHA256-Digest: qbXdxDuUu5fjlFergM5EYInwSvv15GfLGyo0OEmT5Mo=
+
+Name: skin/ago/images/planets/normal_7.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HaAtt84B1ZlHI+RauM1r8HB8XCg=
+SHA256-Digest: +4K4/c7uLKr9egzuPtPBTU7NjGFQDl+NWt/0k9KhooU=
+
+Name: skin/ago/images/planets/normal_8.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 9JNTdybKGCB2RWNJLzaC9MBJx60=
+SHA256-Digest: xHmKKiawzkTQLbukIZ9REBAyE6BWjJk3+Ka6av7xJYQ=
+
+Name: skin/ago/images/planets/normal_9.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EEDPl4lzBRK1xYE80ffvAzdFAFY=
+SHA256-Digest: GtRYbVwP5jg8hjga+Tikzz5JzqwNhBDTRdGELoyUQQU=
+
+Name: skin/ago/images/planets/water_1.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: /n7i6z1OKBlTmK9DB2s/KsLQA9w=
+SHA256-Digest: XgH/nyLLb7M5fIVvrprFAGbyoD4amVCkv5+eQNaFvl4=
+
+Name: skin/ago/images/planets/water_10.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JtP0R508/laBy4b/4c5Yx7csOig=
+SHA256-Digest: wLiLpyjdkrO94j9nFkYh4q+dfubDre/Jg7eMWSANR44=
+
+Name: skin/ago/images/planets/water_2.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: dBEVrUKV4UpO07OTFZIeNl/Pf3M=
+SHA256-Digest: 7LDF6CiqGeZW9EgNmOy8NCZKJ+CquPnqvq5Myi8jD0Y=
+
+Name: skin/ago/images/planets/water_3.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: LOwgNjRwUyTGA+wF2kVVtPtdhhc=
+SHA256-Digest: WZFVT3PfkiSua9qaHzW8Zx0V+1/kk+a3pI9XuV2VGp4=
+
+Name: skin/ago/images/planets/water_4.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: G8emxPmgIVZUPmGq1ytHxtS69iM=
+SHA256-Digest: wx0TVYSpx5kSf+vpBmQR9lNATjvDy8zPVA2yxvtrJF8=
+
+Name: skin/ago/images/planets/water_5.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: CxBHVwc09R1YFjrUiQcX1AycLas=
+SHA256-Digest: ca3BZsmgZS+N3aHBj7YGL1r0p0gNsDdHyvcO27dZw4A=
+
+Name: skin/ago/images/planets/water_6.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: c7t+Z+R6qTNU2/7LMDaoxyuLRCo=
+SHA256-Digest: Wc35UGVotNWqXeTFzgq9sumqo8MLQZiuq3293+m8JiU=
+
+Name: skin/ago/images/planets/water_7.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +vs2KVPqMT5GPHHim2RQ5MA4UFo=
+SHA256-Digest: ZzWD2n2Mv3JJG/7Te3cLRAu+uBIBUktoHtAF9Ni/ubo=
+
+Name: skin/ago/images/planets/water_8.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 98h+wWTZiH2YVKZKSqzKWQaWUYE=
+SHA256-Digest: 319nNxyopKiJDn0OLw7bFVuJDmSD5yVp+MMpZ8AjGmg=
+
+Name: skin/ago/images/planets/water_9.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: KnTFKHGir6VsUFTUqP9AChjkwUs=
+SHA256-Digest: YE5za9w5TQEKD3xmFVle27G3UYQ1unInqZv208KJDSg=
+
+Name: skin/ago/images/task/mission-0.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6n31g5gxM7YnErXnO/+81FzFNzY=
+SHA256-Digest: VI8tb00NggxsX/vv/L1/DnMZPiky7v5UKszIR2Le7Ic=
+
+Name: skin/ago/images/task/mission-1.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2LA9v8tOQammfKwkVKpqEcnN054=
+SHA256-Digest: YPZ1KH/lkHbBKCIgiza+3MFbhthbBD7mYs4rrwIUY+4=
+
+Name: skin/ago/images/task/mission-10.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4WmpGuxshHnRNRs03ZCVv4Q8aCs=
+SHA256-Digest: a2AKHgeASdf0Oj5bgxL6MLRQi8BGtK8Br+N65Jy0HHM=
+
+Name: skin/ago/images/task/mission-13.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1zGSpnTtGYIBp6LIAvKEQr3n8Lg=
+SHA256-Digest: Rg7JFTJ5YURlLXWu3O48rWiOudAEnW/jD6MAsLCq/nE=
+
+Name: skin/ago/images/task/mission-15.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: DnWJwuv5KEyc2pgpYjL1CcCoFkQ=
+SHA256-Digest: +4DIm44KpE17FdFoges6O6foAp+IjH2BaUk85HyDmUk=
+
+Name: skin/ago/images/task/mission-2.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Fd+s/xf8yE0uWvanlJiBPaEfjkE=
+SHA256-Digest: nSOZpy1vqNe9hCgVzKqBRm34QWG5tPCgkiFKhSKPgYE=
+
+Name: skin/ago/images/task/mission-3.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: u50aIgpLTVGJY18JlD0KlX7/WVc=
+SHA256-Digest: o8WBiyrJZwfXoi/jQLOJyivXsbP2ZspFGPIVfo3sxIg=
+
+Name: skin/ago/images/task/mission-4.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mec+JukYq3kcmnH3y6Jf4DOB/6c=
+SHA256-Digest: UvfejIMEt/++A5wfLN4SEci3Jmf8IpOeNcs1nWAz/1w=
+
+Name: skin/ago/images/task/mission-5.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: AqyvPvIYwZb9y+ryIkcoxzgzvZc=
+SHA256-Digest: dUWQVT6r3p+vNTdrIwAU3YSwMgwnBX6+P9MenSV4IjA=
+
+Name: skin/ago/images/task/mission-6.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: oDAxFTZMm6Q2gmzCCVbtkwr7Ihs=
+SHA256-Digest: acoNWPuMHPAmisGIh4A52dRcmAG2VKSy1RuDzWWET8Y=
+
+Name: skin/ago/images/task/mission-7.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: roXD4DQ/Iq5/yRCQFxhgth+t544=
+SHA256-Digest: AytnLcuPjMP2WZa4s+Oz4/Hfg7567Ol5Qb0FfIr6DSE=
+
+Name: skin/ago/images/task/mission-8.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: sMLOxxVuaxVPU506xa3uYpTGZ74=
+SHA256-Digest: nPY472BJ0CcxrHWTx4trCBUIdiVyc73mn58JA5Ni218=
+
+Name: skin/ago/images/task/mission-9.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: xTIkfNAc6BWjhHKz0cnSEIpSd48=
+SHA256-Digest: 0L++KDGs0Zlq35C6juzc1FclWDHojz+SDWImPTvieX0=
+
+Name: skin/ago/images/task/type-0a.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6n31g5gxM7YnErXnO/+81FzFNzY=
+SHA256-Digest: VI8tb00NggxsX/vv/L1/DnMZPiky7v5UKszIR2Le7Ic=
+
+Name: skin/ago/images/task/type-0b.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6n31g5gxM7YnErXnO/+81FzFNzY=
+SHA256-Digest: VI8tb00NggxsX/vv/L1/DnMZPiky7v5UKszIR2Le7Ic=
+
+Name: skin/ago/images/task/type-1a.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6n31g5gxM7YnErXnO/+81FzFNzY=
+SHA256-Digest: VI8tb00NggxsX/vv/L1/DnMZPiky7v5UKszIR2Le7Ic=
+
+Name: skin/ago/images/task/type-1b.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6n31g5gxM7YnErXnO/+81FzFNzY=
+SHA256-Digest: VI8tb00NggxsX/vv/L1/DnMZPiky7v5UKszIR2Le7Ic=
+
+Name: skin/ago/images/task/type-1c.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6n31g5gxM7YnErXnO/+81FzFNzY=
+SHA256-Digest: VI8tb00NggxsX/vv/L1/DnMZPiky7v5UKszIR2Le7Ic=
+
+Name: skin/ago/images/task/type-2a.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cuP82o7YqVCYmMfd7JQgfQq/yEs=
+SHA256-Digest: 7ZR3xbhhdPxswVCWdGVSCfBMmNSgbKrpnv5rtjQ2EzQ=
+
+Name: skin/ago/images/task/type-2b.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: EuhV7KBq7DIEfEFCn0O3FPv5BAE=
+SHA256-Digest: o/B9XRQIzGysfEv/oH2qTxpxvOfYRMNKa7PxZx1wyfs=
+
+Name: skin/ago/images/task/type-3a.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2ySbF0A9l2Rr4xAZ/zzHUvVw+KU=
+SHA256-Digest: /77qcF7LtvELbXahAKEpQLQNNZHhNuYCKnLGoxG71FA=
+
+Name: skin/ago/images/task/type-3b.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: f0HAp/Hy6XQH/vR/2ryEx5RYYXw=
+SHA256-Digest: 8P6N0AQwLydoz9bVFdWh9vKg4ELT81mSgImm5bPkHnM=
+
+Name: skin/ago/images/task/type-3c.gif
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wbkov+gqKtNFpEbPGCueW2Acddc=
+SHA256-Digest: IilI6W4pB5gNuZMdqybmLMFC+bPPZqfhU+m0Ws43/I8=
+
+Name: skin/cache/cache.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 8TIZwjmOLVP/VcrlUzW0vw/Rz2Q=
+SHA256-Digest: wsaUCed/7iPTO7vxq8VoT9Wc3GKusHLV4ajsb2Y0sY4=
+
+Name: skin/cache/color.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: x29ukLnhOcK1lhShL36a2I1dww0=
+SHA256-Digest: 0zTULj+I4xa8qBoUmOrnQGb1+UP7WCCe8qx5IeAieMY=
+
+Name: skin/cache/dark.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: jLPhB3YsrPwWQnw0WZfsj8VDK8s=
+SHA256-Digest: XYjXOAQ/jjSSfF77/dBNi+nryVlGYGEtXi8upEmvUgU=
+
+Name: skin/cache/middle.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: XcH/AIbeDlEtrG1vnLT0haS1o5M=
+SHA256-Digest: RbleWXpcSnDZyF4JNIdlZ5MuyLMUktqZBDJ9N5de/z4=
+
+Name: skin/cache/background/3f1cb3e1709fa2fa1c06b70a3e64a9.jpg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Hb9w8526KAgcSXCBDuakDqjGO9I=
+SHA256-Digest: RpbVklclTC0rGAa6Qh1FK9RKvEpVqf5U26MbdaFOYto=
+
+Name: skin/cache/background/9c2d6e61df84c10082e6ca567971f6.jpg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: nrWF5WDQEh769iNWGXMMZ/lqt0k=
+SHA256-Digest: giqcsVZ8mukqAdQmQXOlbEvyACH2zLrtShzsIkAQ+wY=
+
+Name: skin/cache/background/black_9c2d6e61df84c10082e6ca567971f6.jpg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eJpc+xvEaVtX8H3Uaj4D06YwIHY=
+SHA256-Digest: hmugDjSb5/QXa+IEYMiTx3kkZA6KXyUKx5mPR89NS/k=
+
+Name: skin/cache/background/color_9c2d6e61df84c10082e6ca567971f6.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: bRDTgiqDMy0+jc/g8QX09MveTbk=
+SHA256-Digest: NzsL2uSEU/ptcwaJWU2oH44JSOHoPhogNKEXurf6j+A=
+
+Name: skin/cache/background/dark_3f1cb3e1709fa2fa1c06b70a3e64a9.jpg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: YRDj3I6c8iCVt8W06tb/dSJuYJg=
+SHA256-Digest: f7yHhRYuUkC8Dcj/Ofyj+0j3amuSuMH68eM6Ous9IqY=
+
+Name: skin/cache/background/dark_9c2d6e61df84c10082e6ca567971f6.jpg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eJpc+xvEaVtX8H3Uaj4D06YwIHY=
+SHA256-Digest: hmugDjSb5/QXa+IEYMiTx3kkZA6KXyUKx5mPR89NS/k=
+
+Name: skin/cache/background/middle_3f1cb3e1709fa2fa1c06b70a3e64a9.jpg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: P3Tm5GPy2ycHj+HWrAkEGBRhCU8=
+SHA256-Digest: uQUmROLsSWv5qhPt38GDBrkT74jSMj6piEUyEobvQd8=
+
+Name: skin/cache/background/middle_9c2d6e61df84c10082e6ca567971f6.jpg
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2Dk4yAJfXQYTOctuO6yGJ3o5Pic=
+SHA256-Digest: GOya0ayEbLtEYTcOTcXf0CeafNjfk3BWQR0DkYm4/EI=
+
